@@ -1,0 +1,166 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+body{
+        background-color: rgb(47, 255, 47);
+}
+
+nav{
+    text-align: center;
+}
+
+nav a{
+    margin: 10px;
+    color: black;
+    font-size: 30px;
+    text-decoration: none;
+ }
+
+.tituloinicio{ 
+    font-size: 25px;
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+
+.seccioninicio{
+    font-size: 20px;
+    margin-top: 40px;
+    margin-right: 200px;
+    margin-bottom: 80px;
+}
+
+footer{
+    font-size: 20px;
+    border: solid 2px black;
+}
+
+.articuloinicio{
+    margin-top: 10px;
+}
+
+.redes{
+    margin-bottom: 5px;
+}
+
+footer a{
+    text-decoration: none;
+    margin-left: 5px;
+}
+
+
+footer ul li{
+    display: inline-block;
+}
+
+.instagram{
+    width: 20px;
+    height: 20px;
+}
+
+.spotifylogo{
+    width: 20px;
+    height: 20px;
+}
+
+h5{
+    text-align: right;
+}
+
+form{
+    text-align: center;
+}
+
+.fondoentradas{
+    background-image: url("../multimedia/concierto.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+   }
+
+table{
+    margin-left: 120px;
+    margin-bottom: 420px;
+    margin-top: 120px;
+    text-align: center;
+    border-style: double;
+    color: aliceblue;
+}
+
+th{
+    font-size: 35px;
+    border-style: double;
+}
+
+tr{
+    font-size: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+table tr a{
+    text-decoration: none;
+    color: greenyellow;
+}
+
+.footerentradas{
+    color: aliceblue;
+}
+
+.listaspoty{
+    width: 600px;
+    height: 300px;
+}
+
+ol{
+    font-size: 20px;
+}
+
+.imagenesgaleria{
+    width: 350px;
+    height: 350px;
+}
+
+.divgaleria1{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 400px;
+    
+}
+
+.divgaleria2{
+    margin-top: 100px;
+    margin-bottom: 50px;
+    margin-left: 400px;
+}
+
+.tituloform{
+    text-align: center;
+    font-size: 20px;
+    margin-top: 150px;
+}
+
+.nombre{
+    margin-top: 20px;
+}
+
+.correo{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.texto{
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+
+.enviar{
+    margin-bottom: 150px;
+}
+
